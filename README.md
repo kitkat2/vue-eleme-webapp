@@ -3,13 +3,20 @@
 > A Vue.js project
 
 
-    🔸参考慕课网仿饿了么webapp课程
+    🔸 参考慕课网仿饿了么webapp课程
 
-    🔸基于vue2.0实现的仿饿了么商家页SPA
+    🔸 基于vue2.0实现的仿饿了么商家页SPA
     
-    🔸依赖：-vuex -vue-router -axios -better-scroll -webpack -stylus
+    🔸 主要依赖
     
-    🔸组件化、模块化
+        ◾ -vuex 状态管理 实现组件通信
+        ◾ -vue-router 实现页面路由切换
+        ◾ -axios 请求数据
+        ◾ -better-scroll 实现页面滚动效果 
+        ◾ -stylus 页面样式编写
+    
+    
+    🔸 组件化、模块化
     
 
 ## 效果截图
