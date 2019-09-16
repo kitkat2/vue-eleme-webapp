@@ -1,6 +1,20 @@
-# eleme
+# vue实现仿饿了么商家页webapp
 
 > A Vue.js project
+
+
+    🔸参考慕课网仿饿了么webapp课程
+
+    🔸基于vue2.0实现的仿饿了么商家页SPA
+    
+    🔸依赖：-vuex -vue-router -axios -better-scroll -webpack -stylus
+    
+    🔸组件化、模块化
+    
+
+## 效果截图
+    
+
 
 ## Build Setup
 
