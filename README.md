@@ -21,8 +21,10 @@
 
 ## 效果截图
     
-    更新中...
-    ![goods](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/goods.gif)
+ 
+   ![goods](img/goods.gif)
+  
+  ![seller](img/seller.gif)
 
 
 ## Build Setup
