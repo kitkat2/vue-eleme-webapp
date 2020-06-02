@@ -22,8 +22,7 @@
 ## 效果截图
     
  
-   ![goods](img/goods.gif)
-  ![image](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/goods.gif)
+   ![goods](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/goods.gif)
   ![seller](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/seller.gif)
 
 
