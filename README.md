@@ -22,8 +22,9 @@
 ## 效果截图
     
  
-   ![goods](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/goods.gif)
-  ![seller](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/seller.gif)
+   ![goods](https://github.com/kitkat2/vue-eleme-webapp/blob/master/img/goods.gif)
+   
+  ![seller](https://github.com/kitkat2/vue-eleme-webapp/blob/master/img/seller.gif)
 
 
 ## Build Setup
