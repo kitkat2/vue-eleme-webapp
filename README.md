@@ -23,8 +23,8 @@
     
  
    ![goods](img/goods.gif)
-  
-  ![seller](img/seller.gif)
+  ![image](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/goods.gif)
+  ![seller](https://github.com/kitkat2/vue-eleme-webapp/raw/master/img/seller.gif)
 
 
 ## Build Setup
